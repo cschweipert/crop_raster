@@ -1,0 +1,5 @@
+# A collection of scripts to perform common Earth Analytic methods
+## 1. Crop raster data
+A script to crop raster data with a polygon in a shapefile.
+## 2. Add a hillshade
+Apply a hilshade to a DEM. The [earthpy](https://pypi.org/project/earthpy/) package makes it extremly easy to apply a hillshade to a dem at different sun angles and azimuths.

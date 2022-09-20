@@ -1,1 +1,0 @@
-pip install matplotlib, seaborn, rioxarray, geopandas, earthpy, shapely
